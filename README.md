@@ -59,7 +59,7 @@ After the data manipulation, the school district analysis was repeated to show t
 
 ## Observation
 
-After the changes, the Passing Math Percentage did not change significantly. However, there was an extreme decrease on the Passing Reading and Math Percentages. The ranking for Thomas High School was also lowered as a result from its original second spot.
+After the changes, the Passing Math Percentage did not change significantly. However, there was an extreme decrease on the Passing Reading and Overall Passing Percentages. The ranking for Thomas High School was also lowered as a result from its original second spot.
 
 ## Summary
 
