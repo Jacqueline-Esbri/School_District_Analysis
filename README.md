@@ -45,9 +45,17 @@ After the data manipulation, the school district analysis was repeated to show t
 - Passing Reading Percentage = 69.7%
 - Overall Passing percentage = 65.1%
 
-## Fig.1 ![school_summary_edited.PNG](Resources/school_summary_edited.png)
+## Fig.1
 
-## Fig.2 ![school_summary_module_code.PNG](Resources/school_summary_module_code.png)
+### Thomas High School After the changes:
+
+ ![school_summary_edited.PNG](Resources/school_summary_edited.png)
+
+## Fig.2
+
+### Thomas High School Before the changes:
+
+![school_summary_module_code.PNG](Resources/school_summary_module_code.png)
 
 ## Observation
 
