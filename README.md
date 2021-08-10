@@ -18,7 +18,7 @@ Working with Jupyter Notebook and Python was vital in the quest to read raw data
 
 ## Results
 
-For this project we manipulated and calculated data to create DataFrame tables to be used for easier visualization. The following are a few of the tables created to inspect the data:
+For this project the data was manipulated and calculated in order to create DataFrame tables for easier visualization. The following are a few of the tables created to inspect the data:
 
 - Student Total Counts
 - School Total Budgets
@@ -29,7 +29,7 @@ For this project we manipulated and calculated data to create DataFrame tables t
 - District Summary
 - Top and Low Performing Schools
 
-The school board was interested in the results of Thomas High School's ninth graders after changing its Math and Reading scores. To do this effectively, the scores for these subjects were replaced with NaNs (Not a Number), while maintaining the rest of the data intact.
+The school board was interested in the results of Thomas High School's ninth graders after changing its Math and Reading scores. To do this effectively, the scores for these subjects were replaced with NaNs (Not a Number) while maintaining the rest of the data intact.
 
 After the data manipulation, the school district analysis was repeated to show the overall changes that affected the analysis. As a result of the data wrangling, the following was observed:
 
