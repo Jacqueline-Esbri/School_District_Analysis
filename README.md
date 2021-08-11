@@ -5,7 +5,7 @@
 
 The purpose of this analysis was to generate a district-wide summary using Python and the Pandas library. The raw data was provided by several CSV files. The data was explored, inspected, manipulated, cleaned, and converted into DataFrames. 
 
-The project's main goal was to analyze school district data and showcase trends in school performance. The data contained information on 15 schools and 39,170 students. The results found from this analysis may allow its leaders to make strategic decisions on school budgets and funding.
+The project's main goal was to analyze a school district data and showcase trends in school performance. The data contained information on 15 schools and 39,170 students. The results found from this analysis may allow its leaders to make strategic decisions on school budgets and funding.
 
 
 
@@ -13,12 +13,12 @@ The project's main goal was to analyze school district data and showcase trends 
 
 For this project, Anaconda, an open source distribution software, was used. Anaconda supports the use of Jupyter Notebook along with Python. Jupyter Notebook enabled the process of creating and merging documents containing live code.
 
-Working with Jupyter Notebook and Python was vital in the quest to read raw data, change layout and structure, organize the data by type, and create tables. It is similar to Excel/VBA's functionality. However, Jupyter and Pandas Library exceeds in performance and optimization when compared to Excel. 
+Working with Jupyter Notebook and Python was vital in the quest to read raw data, change layout and structure, organize the data by type, and create tables. It is similar to Excel/VBA's functionality; however, Jupyter and Pandas Library exceeds in performance and optimization when compared to Excel. 
 
 
 ## Results
 
-For this project the data was manipulated and calculated in order to create DataFrame tables for easier visualization. The following are a few of the tables created to inspect the data:
+For this project the data was manipulated and calculated in order to create DataFrame tables for easier visualization. The following tables were created to inspect the data:
 
 - Student Total Counts
 - School Total Budgets
@@ -59,8 +59,8 @@ After the data manipulation, the school district analysis was repeated to show t
 
 ## Observation
 
-After the changes, the Passing Math Percentage did not change significantly. However, there was a significant change (decrease) on the Passing Reading and Overall Passing Percentages. The ranking for Thomas High School was also lowered as a result from its original second spot.
+After the changes, the Passing Math Percentage did not change significantly. It was interesting to note the significant change (decrease) on the Passing Reading and Overall Passing Percentages. The ranking for Thomas High School was also lowered as a result from its original second spot.
 
 ## Recommendations 
 
-Due to the inconsistencies, and in order to protect the integrity of testing standards, more analysis should be done. A similar comprehensive analysis (such as the one created) from previous years may show when the problem began. Conducting student surveys and interviews on standardized testing may also show key information about the behavior of academic dishonesty in this case. Comprehensive analysis should also be completed on a yearly basis.
+Due to the inconsistencies, and in order to protect the integrity of testing standards, more analysis should be done. A similar comprehensive analysis (such as the one created) from previous years may show when the problem began. Conducting student surveys and interviews on standardized testing may also show key information about the behavior of academic dishonesty in this case. Comprehensive analysis should also be conducted on a yearly basis.
